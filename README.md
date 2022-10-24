@@ -1,7 +1,3 @@
- Raphael Flor                     
-
-[![Main](https://hostdox.tk/assets/main.webp)]
-
 Raphael Flor
 ============
 
