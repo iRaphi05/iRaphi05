@@ -1,4 +1,4 @@
 iRaphi05
 ============
 
-I am a 18-year-old IT specialist, currently learning the skills and knowledge needed in the technology industry. My interests include coding, networking, and problem-solving. I am dedicated to staying up to date with the latest advancements in the field and am excited to continue my journey in the world of IT.
+Hi! I'm an 18-year-old IT specialist with a passion for technology and problem-solving. I love exploring new technologies, developing efficient solutions, and continuously learning to stay ahead in the tech world. Whether it's coding, networking, or IT support, I'm dedicated to delivering quality and innovation.
